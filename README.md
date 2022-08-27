@@ -18,7 +18,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - :seedling: I'm also the core contributor of [sasjs framework](https://github.com/sasjs).
-- :zap: In my free time, I love to read dev articles and watch videos related to my dev stack
+- :zap: In my free time, I love to make and write about things i've loved and experienced
 - :mailbox:Reach out to me at: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sabir-hassan-8b1484140/)
 
 ---
